@@ -1,4 +1,4 @@
-//"Hello World" 
+//"Hello World". The first line of code most beginners type when starting. It really is like saying hello to a new world.
 
 #include <iostream>
 using namespace std;
