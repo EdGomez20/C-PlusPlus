@@ -1,0 +1,20 @@
+//Day 1 was just learning how to use the program we utilize in class. Lab class is a bit more fast paced.
+
+#include <iostream>
+using namespace std;
+int main() {
+
+    cout << "Edward Gomez" << endl;
+    
+    cout << "3 + 4 - 7" << endl;
+    
+    cout << "Get on with the program!" << endl;
+    
+    cout << "    * " << endl;
+    cout << "   *** " << endl;
+    cout << "  ***** " << endl;
+    cout << " ******* " << endl;
+    cout << "*********" << endl;
+    
+    return 0;
+}
